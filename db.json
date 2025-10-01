@@ -1,0 +1,79 @@
+{
+  "puntos": [
+    {
+      "id": 1,
+      "NationalID": "0919079053",
+      "puntos": 150
+    },
+    {
+      "id": 2,
+      "NationalID": "0987654321",
+      "puntos": 85
+    },
+    {
+      "id": 3,
+      "NationalID": "1755566677",
+      "puntos": 999
+    },
+    {
+      "id": 4,
+      "NationalID": "0102030405",
+      "puntos": 12
+    },
+    {
+      "id": 5,
+      "NationalID": "1809876543",
+      "puntos": 540
+    }
+  ],
+  "premios": [
+    {
+      "id": "PRD001",
+      "titulo": "Canguil Pequeñíto",
+      "descripcion": "Disfruta de un delicioso canguil pequeño",
+      "imagen": "https://i.imgur.com/uxekhOA.jpeg",
+      "puntos": 150
+    },
+    {
+      "id": "PRD002",
+      "titulo": "Bebida Mediana",
+      "descripcion": "Refresca tu película con una bebida mediana",
+      "imagen": "https://i.imgur.com/uxekhOA.jpeg",
+      "puntos": 120
+    },
+    {
+      "id": "PRD003",
+      "titulo": "Hot Dog Clásico",
+      "descripcion": "El complemento perfecto para tu película",
+      "imagen": "https://i.imgur.com/uxekhOA.jpeg",
+      "puntos": 200
+    },
+    {
+      "id": "PRD004",
+      "titulo": "Nachos con Queso",
+      "descripcion": "Crujientes nachos para compartir",
+      "imagen": "https://i.imgur.com/uxekhOA.jpeg",
+      "puntos": 250
+    },
+    {
+      "id": "PRD005",
+      "titulo": "Super Hot Dog Clásico",
+      "descripcion": "El complemento perfecto para tu película",
+      "imagen": "https://i.imgur.com/uxekhOA.jpeg",
+      "puntos": 200
+    },
+    {
+      "id": "PRD006",
+      "titulo": "Super Nachos con Queso",
+      "descripcion": "Crujientes nachos para compartir",
+      "imagen": "https://i.imgur.com/uxekhOA.jpeg",
+      "puntos": 250
+    }
+  ],
+  "codigocanje": [
+    {
+      "id": "COD001",
+      "code": 150514
+    }
+  ]
+}
